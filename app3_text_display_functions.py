@@ -1,4 +1,4 @@
-# Basic Text functions
+# Basic Text Display functions
 
 # Core packages
 import streamlit as st 
