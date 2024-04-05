@@ -1,3 +1,7 @@
 streamlit
 watchdog
 pandas
+plotly
+PyPDF2
+pdfplumber
+docx2txt
