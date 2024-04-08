@@ -8,9 +8,9 @@ import docx2txt
 from PyPDF2 import PdfReader
 import pdfplumber
 
-
+    
 # Load Images
-@st.cache
+@st.cache_data
 def load_image(image_file):
 	img = Image.open(image_file)
 	return img
@@ -44,7 +44,7 @@ def main():
                                "filesize":image_file.size
                                }
 			  st.write(file_details)
-			  st.image(load_image(image_file),width=250,height=250)
+			  st.image(load_image(image_file),caption=image_file.name,width=250)
 
 	elif choice == "Dataset":
 		st.subheader("Dataset")
