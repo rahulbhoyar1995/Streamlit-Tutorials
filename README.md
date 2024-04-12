@@ -9,7 +9,8 @@ Explore various tutorials to enhance your data visualization and machine learnin
 
 ### Requirements
 
-Python 3 or more
+Python 3 or more.
+
 All the requirements are in "requirements.txt" file
 
 ### Contributions
