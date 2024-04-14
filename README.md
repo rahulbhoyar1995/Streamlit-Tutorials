@@ -15,7 +15,7 @@ To begin exploring Streamlit, check out the tutorials available in this reposito
 ## Repository Structure
 
 - `app1_setting_page_config.py`: Introduction to Streamlit and basic usage.
-- `02_building_data_visualizations.md`: Creating interactive data visualizations with Streamlit.
+- `app2_displaying_data.py`: Creating interactive data visualizations with Streamlit.
 - `03_deploying_machine_learning_models.md`: Deploying machine learning models with Streamlit.
 - `04_advanced_features_and_customization.md`: Exploring advanced features and customization options in Streamlit.
 
