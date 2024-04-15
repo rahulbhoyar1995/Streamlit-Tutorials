@@ -7,3 +7,4 @@ pdfplumber
 docx2txt
 numpy
 matplotlib
+memory-profiler
