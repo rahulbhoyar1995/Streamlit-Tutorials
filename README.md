@@ -12,15 +12,6 @@ Streamlit is an open-source framework that allows you to create beautiful, inter
 
 To begin exploring Streamlit, check out the tutorials available in this repository. Each tutorial provides step-by-step instructions and example code to help you understand the basics of using Streamlit for various purposes.
 
-## Repository Structure
-
-- `app1_setting_page_config.py`: Introduction to Streamlit and basic usage.
-- `app2_displaying_data.py`: Creating interactive data visualizations with Streamlit.
-- `03_deploying_machine_learning_models.md`: Deploying machine learning models with Streamlit.
-- `04_advanced_features_and_customization.md`: Exploring advanced features and customization options in Streamlit.
-
-Feel free to explore, experiment, and learn at your own pace. Happy Streamlit coding!
-
 
 ## Execution
 #### Step 1 : Install the requirements by executing thr following command.
